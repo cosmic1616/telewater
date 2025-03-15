@@ -11,8 +11,8 @@ from telethon import TelegramClient
 
 load_dotenv()
 
-API_ID = os.getenv("API_ID")
-API_HASH = os.getenv("API_HASH")
+API_ID = os.getenv("20202379")
+API_HASH = os.getenv("cb1d30a2facf3a1d5691fe3dbe8e8482")
 
 
 class TestData(BaseModel):
